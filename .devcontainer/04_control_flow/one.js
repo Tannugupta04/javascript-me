@@ -1,4 +1,5 @@
 //hmesha pura code execute nhi hona chahiye kuch na kuch conditionals pe run hona chahie
+//we wanted control
 //for example agr hum login hai toh kuch code run ho agr logout ho toh alg
 //this is called control flow or logic flow
 
